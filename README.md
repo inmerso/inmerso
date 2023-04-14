@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/inmerso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmerso" />
-</a>
-
-### Languages/Technologies
+<table border=0>
+<tr>
+<td style="vertical-align:top, width:50%">
+<h2>Languages/Technologies</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -31,3 +30,11 @@ Here are some ideas to get you started:
 ![ESP32](https://img.shields.io/badge/-esp32-000)
 ![Tofino](https://img.shields.io/badge/-Tofino-000)
 
+<td>
+
+<a href="https://github.com/inmerso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmerso" />
+</a>
+
+</tr>
+</table>
