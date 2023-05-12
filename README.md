@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <table border=0>
-<tr>
+<tr style="vertical-align:top">
 <td style="vertical-align:top, width:50%">
 <h2>Languages/Technologies</h2>
 
@@ -29,12 +29,13 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
 ![Tofino](https://img.shields.io/badge/-Tofino-000)
+</td>
 
 <td>
-
 <a href="https://github.com/inmerso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmerso" />
 </a>
+</td>
 
 </tr>
 </table>
