@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <table border=0>
-<tr style="vertical-align:top">
-<td style="vertical-align:top, width:50%">
-
-<p align="top">
+<tr>
+<td style="width:50%; vertical-align:top">
 <h2>Languages/Technologies</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -34,7 +32,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
 ![Tofino](https://img.shields.io/badge/-Tofino-000)
-</p>
 </td>
 
 <td>
