@@ -18,17 +18,23 @@ Here are some ideas to get you started:
 <table border=0>
 <tr style="vertical-align:top">
 <td style="vertical-align:top, width:50%">
+
+<p align="top">
 <h2>Languages/Technologies</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-100?&logo=MySQL&logoColor=ff0000)
+
 ![VHDL](https://img.shields.io/badge/-VHDL-000)
+![Verilog](https://img.shields.io/badge/-Verilog-000)
+![SystemC](https://img.shields.io/badge/-SystemC-000)
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
 ![Tofino](https://img.shields.io/badge/-Tofino-000)
+</p>
 </td>
 
 <td>
