@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 
 </tr>
 </table>
+
+Currently, I am working a lot with ESP32 devices to build IoT LoRa networks, mainly in C. I'm also using Python to code IoT Gateways, integrating Flask, Scapy, ...
