@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h2>Languages/Technologies</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Flask-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![SQL](https://img.shields.io/badge/-SQL-100?&logo=MySQL&logoColor=ff0000)
@@ -31,7 +32,9 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
-![Tofino](https://img.shields.io/badge/-Tofino-000)
+![Tofino](https://img.shields.io/badge/-Intel_Tofino-00c)
+
+![Stars](https://img.shields.io/github/stars/inmerso)
 </td>
 
 <td>
