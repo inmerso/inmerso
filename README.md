@@ -20,21 +20,24 @@ Here are some ideas to get you started:
 <td style="width:50%; vertical-align:top">
 <h2>Languages/Technologies</h2>
 
+💻
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Python](https://img.shields.io/badge/-Flask-000?&logo=Python)
+![Python](https://img.shields.io/badge/-scapy-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![SQL](https://img.shields.io/badge/-SQL-100?&logo=MySQL&logoColor=ff0000)
-
-![VHDL](https://img.shields.io/badge/-VHDL-000)
-![Verilog](https://img.shields.io/badge/-Verilog-000)
-![SystemC](https://img.shields.io/badge/-SystemC-000)
-
+![VHDL](https://img.shields.io/badge/-VHDL-900)
+![Verilog](https://img.shields.io/badge/-Verilog-090)
+![SystemC](https://img.shields.io/badge/-SystemC-009)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
-![Tofino](https://img.shields.io/badge/-Intel_Tofino-00c)
+![P4](https://img.shields.io/badge/-P4-393)
+<img src="https://p4.org/wp-content/uploads/2021/05/Group-81.png" alt="P4" width="24"/>
 
 ![Stars](https://img.shields.io/github/stars/inmerso)
+
+🚴 🏊 💾
 </td>
 
 <td>
