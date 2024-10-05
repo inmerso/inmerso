@@ -66,6 +66,5 @@ micropython). <br>
 Design protocol converters on FPGAs, and packet broker on programmable ASIC
 switches (Tofino and C-programmable network processors).
 
-<center>
+<p align='center'>
 - LR - 
-</center>
