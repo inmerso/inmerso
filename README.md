@@ -46,6 +46,8 @@ IoT/Algorithms:
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 <br>
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 ![Stars](https://img.shields.io/github/stars/inmerso)
 
 🚴 🏊 💾 bike, swim, code
