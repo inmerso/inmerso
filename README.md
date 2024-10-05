@@ -26,7 +26,7 @@ IoT/Algorithms:
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![Python](https://img.shields.io/badge/-scapy-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)<br>
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-100?&logo=MySQL&logoColor=ff0000)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
