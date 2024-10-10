@@ -68,5 +68,6 @@ micropython). <br>
 Design protocol converters on FPGAs, and packet broker on programmable ASIC
 switches (Tofino and C-programmable network processors).
 
+![](https://komarev.com/ghpvc/?username=inmerso)
 <p align='center'>
 - LR - 
