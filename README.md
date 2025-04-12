@@ -30,7 +30,8 @@ IoT/Algorithms:
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-100?&logo=MySQL&logoColor=ff0000)
 ![ESP32](https://img.shields.io/badge/-esp32-000)
-![Wireshark](https://img.shields.io/badge/-wireshark-155)
+![Wireshark](https://img.shields.io/badge/-wireshark-3ad)
+![MQTT](https://img.shields.io/badge/-MQTT-606)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 <br>Digital Design:
@@ -62,10 +63,10 @@ IoT/Algorithms:
 </tr>
 </table>
 
-Developing IoT applications (power metering, environmental monitoring, ...) on
-ESP32-based devices and Linux edge gateways (Arduino, FreeRTOS, and
-micropython). <br>
-Design protocol converters on FPGAs, and packet broker on programmable ASIC
+Developing **IoT** applications (power metering, environmental monitoring, ...)
+on bespoke hardware and Linux edge gateways (including ESP32, Arduino, FreeRTOS,
+and micropython). <br>
+Design protocol converters on FPGAs, and **packet brokers** on programmable ASIC
 switches (Tofino and C-programmable network processors).
 
 
