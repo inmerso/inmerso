@@ -40,7 +40,7 @@ IoT/Algorithms:
 ![SystemC](https://img.shields.io/badge/-SystemC-009)
 <br>Packet Broker:
 ![P4](https://img.shields.io/badge/-P4-393)
-<img src="https://p4.org/wp-content/uploads/2021/05/Group-81.png" alt="P4" width="22"/>
+<img src="https://p4.org/wp-content/uploads/sites/53/2025/07/p4-logo.svg" alt="P4" width="22"/>
 <br>Desktop:
 ❤️![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
