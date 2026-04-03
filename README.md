@@ -1,76 +1,53 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0baff0&width=435&lines=Embedded+Systems+Engineer;IoT+Specialist;Packet+Broker+Developer" alt="Typing SVG" />
+</div>
 
-<!--
-**inmerso/inmerso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚴 🏊 💾 Bike, Swim, Code </h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
 
-<table border=0>
-<tr>
-<td style="width:50%; vertical-align:top">
-<h2>Languages/Technologies</h2>
+Developing **IoT** applications (power metering, environmental monitoring, ...) on bespoke hardware and Linux edge gateways (including ESP32, Arduino, FreeRTOS, and micropython). 
 
-💻
-IoT/Algorithms:
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
-![Python](https://img.shields.io/badge/-scapy-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)<br>
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-100?&logo=MySQL&logoColor=ff0000)
-![ESP32](https://img.shields.io/badge/-esp32-000)
-![Wireshark](https://img.shields.io/badge/-wireshark-3ad)
-![MQTT](https://img.shields.io/badge/-MQTT-606)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-<br>Digital Design:
-![VHDL](https://img.shields.io/badge/-VHDL-900)
-![Verilog](https://img.shields.io/badge/-Verilog-090)
-![SystemC](https://img.shields.io/badge/-SystemC-009)
-<br>Packet Broker:
-![P4](https://img.shields.io/badge/-P4-393)
-<img src="https://p4.org/wp-content/uploads/sites/53/2025/07/p4-logo.svg" alt="P4" width="22"/>
-<br>Desktop:
-❤️![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+I design protocol converters on FPGAs, and **packet brokers** on programmable ASIC switches (Tofino and C-programmable network processors).
+
+<div align="center">
+  <a href="https://github.com/inmerso">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmerso&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  </a>
+</div>
+
+## 🛠 Languages & Technologies
+
+**IoT & Algorithms**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Digital Design & Packet Brokers**<br>
+![VHDL](https://img.shields.io/badge/VHDL-000000?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-00599C?style=flat-square)
+![P4](https://img.shields.io/badge/P4-E7352C?style=flat-square)
+
+**Tools & Environment**<br>
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
 <br>
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/inmerso)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 
-🚴 🏊 💾 bike, swim, code
-</td>
-
-<td>
-<a href="https://github.com/inmerso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inmerso" />
-</a>
-</td>
-
-</tr>
-</table>
-
-Developing **IoT** applications (power metering, environmental monitoring, ...)
-on bespoke hardware and Linux edge gateways (including ESP32, Arduino, FreeRTOS,
-and micropython). <br>
-Design protocol converters on FPGAs, and **packet brokers** on programmable ASIC
-switches (Tofino and C-programmable network processors).
-
-
-![](https://komarev.com/ghpvc/?username=inmerso&style=plastic&color=0baff0)
-
-<p align='center'>
-- LR - 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inmerso&style=flat-square&color=0baff0" alt="Profile Views" />
+</p>
