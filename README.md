@@ -53,10 +53,10 @@ I design protocol converters on FPGAs, and **packet brokers** on programmable AS
 
 <br>
 
-<p align="center">
+<center>
 
   ![Patent](https://img.shields.io/badge/Patent_Pending-2-blue?style=for-the-badge&logo=patreon&logoColor=white)
   ![Publication](https://img.shields.io/badge/Scientific_Publications-20-blue?style=for-the-badge&logo=patreon&logoColor=white)
   <img src="https://komarev.com/ghpvc/?username=inmerso&style=for-the-badge&color=0baff0" alt="Profile Views" />
 
-</p>
+</center>
